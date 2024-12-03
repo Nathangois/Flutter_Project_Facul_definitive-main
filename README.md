@@ -11,7 +11,7 @@
 
 
 ### Dados App
-- Link Video - 
+- Link Video - https://www.youtube.com/watch?v=rzzogdyb2NI&t=132s
 
 
 ### Requisitos do Aplicativo de To-Do List e Lembretes
@@ -114,4 +114,6 @@ Pressione F5 ou acesse Run > Start Debugging. No Android Studio:
 
 Clique em Run > Run 'main.dart'.
 
-6️⃣ Dicas de Desenvolvimento Hot Reload: Faça alterações e pressione r no terminal para atualizar instantaneamente. Hot Restart: Pressione R no terminal para reiniciar o estado do aplicativo. Gerencie dependências: Adicione ou atualize pacotes no arquivo pubspec.yaml. 🛠 Resolva Problemas Comuns Erro no flutter doctor: Siga as instruções exibidas no terminal para corrigir dependências ou configurações faltantes. Dispositivo não encontrado: Certifique-se de que o dispositivo está conectado e a depuração está habilitada. Com isso, o projeto estará rodando corretamente na sua máquina. �
+6️⃣ Dicas de Desenvolvimento Hot Reload: Faça alterações e pressione r no terminal para atualizar instantaneamente. Hot Restart: Pressione R no terminal para reiniciar o estado do aplicativo. Gerencie dependências: Adicione ou atualize pacotes no arquivo pubspec.yaml. 🛠 Resolva Problemas Comuns Erro no flutter doctor: Siga as instruções exibidas no terminal para corrigir dependências ou configurações faltantes. Dispositivo não encontrado: Certifique-se de que o dispositivo está conectado e a depuração está habilitada. Com isso, o projeto estará rodando corretamente na sua máquina. 🚀
+
+
